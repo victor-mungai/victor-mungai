@@ -48,4 +48,4 @@
 
 ---
 
-> “The goal is automation, the path is practice.” — *Victor Mungai*
+> “The goal is Mastery, the path is practice.” — *Victor Mungai*

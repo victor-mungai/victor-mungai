@@ -36,7 +36,7 @@
 
 ### 🧰 Featured Repositories
 
-- [💻 Python Mini Projects](https://github.com/victor-mungai/python-mini-projects) – Hands-on Python practice on logic, data, strings, and loops 📚
+- [💻 Python Mini Projects](https://github.com/victor-mungai/python-mini-project) – Hands-on Python practice on logic, data, strings, and loops 📚
 - [🛠️ Bash Automation Toolkit](https://github.com/victor-mungai/bash-scripts) – My personal collection of automation tools and scripts.
 
 ---

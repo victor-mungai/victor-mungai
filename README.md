@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Victor Mungai</h1>
-<h3 align="center">Aspiring DevOps Engineer 🚀 | Python & Linux Enthusiast 🐧 | CI/CD Practitioner ⚙️</h3>
+<h3 align="center">DevOps Engineer 🚀 | Python & Linux Enthusiast 🐧 | CI/CD Practitioner ⚙️</h3>
 
 ---
 

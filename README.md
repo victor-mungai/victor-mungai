@@ -9,7 +9,7 @@ Building reliable systems, scalable pipelines, and automation that actually stic
 
 ---
 
-## 🧭 Engineering Focus
+##  Engineering Focus
 
 I design, automate, and operate cloud-native infrastructure with an emphasis on **reliability, security, and repeatability**.  
 My work sits at the intersection of **infrastructure, CI/CD, and developer productivity** — turning ideas into production-ready systems.
@@ -21,7 +21,7 @@ I care deeply about:
 
 ---
 
-## 🔧 Core Stack
+##  Core Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-Ubuntu%20%7C%20CentOS-blue?style=flat-square&logo=linux&logoColor=white" />
@@ -35,7 +35,7 @@ I care deeply about:
 
 ---
 
-## 📊 Engineering Activity
+##  Engineering Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victor-mungai&show_icons=true&theme=tokyonight" width="48%" />
@@ -44,7 +44,7 @@ I care deeply about:
 
 ---
 
-## 🛠 What I’m Working On
+##  What I’m Working On
 
 - Designing CI/CD pipelines with Jenkins and GitHub Actions  
 - Automating infrastructure and system workflows using Bash and Python  
@@ -55,7 +55,7 @@ I care deeply about:
 ---
 
 
-## 🌍 Connect
+##  Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-mungai-" target="_blank">

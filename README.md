@@ -1,7 +1,7 @@
 <h1 align="center">Victor Mungai</h1>
 
 <h3 align="center">
-Senior DevOps & Platform Engineer
+DevOps & Platform Engineer
 </h3>
 
 <p align="center">

@@ -1,7 +1,7 @@
 <h1 align="center">Victor Mungai</h1>
 
 <h3 align="center">
- DevOps & Platform Engineer
+Senior DevOps & Platform Engineer
 </h3>
 
 <p align="center">
@@ -13,20 +13,12 @@ Building scalable cloud infrastructure, intelligent automation, and reliable pro
 </p>
 
 <p align="center">
-  <a href="https://github.com/victor-mungai">
-    <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </a>
-  
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,githubactions,python,bash,linux&perline=5" />
 </p>
 
 ---
 
-###  Engineering Focus
+### ⚡ Engineering Focus
 
 - Cloud Infrastructure & Platform Engineering  
 - Kubernetes, Docker & Helm  
@@ -43,7 +35,11 @@ Building scalable cloud infrastructure, intelligent automation, and reliable pro
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=victor-mungai&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=victor-mungai&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-mungai&theme=tokyonight" />
 </p>
 
 ---
